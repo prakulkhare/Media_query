@@ -1,0 +1,37 @@
+@media (max-width: 500px) {
+    .container{
+    flex-direction: column;
+    
+}
+}
+
+.container{
+    background-color: bisque;
+    display:flex;
+    flex-direction: row;
+    width:500px;
+    padding:2px ;
+  
+}
+#boxleft{
+    
+    background-color: aquamarine;
+    border: 1px solid blueviolet;
+    width:50%;
+    margin: 3px;
+    padding: 2px;
+    display: flex;
+    flex-direction: column;
+}
+
+#boxright{
+    
+    background-color: yellowgreen;
+    border:1px solid blueviolet;
+    width:50%;
+    margin: 3px;
+    padding:2px;
+}
+p{
+    border: 1px solid red;
+}
