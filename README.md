@@ -10,3 +10,5 @@ Below 640px screen width:
 
 -The two text boxes should remain stacked vertically.
 -The image should shift below both text boxes, forming a fully vertical layout.
+
+check where is the issue
